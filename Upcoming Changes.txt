@@ -5,7 +5,7 @@ UPCOMING CHANGES
 🔵Verified
 🟣Will be moved
 
-CHANGES
+----------------------
 
 🔴Lightmare
 🟢Supernova
