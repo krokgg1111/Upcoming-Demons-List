@@ -2,7 +2,7 @@ UPCOMING CHANGES
 🔴Top 5
 🟡Top 15
 🟢Other top
-🔵Verified
+🔵Verified (Will be removed after placing at demonlist)
 🟣Will be moved
 
 ----------------------
